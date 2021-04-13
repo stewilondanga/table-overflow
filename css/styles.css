@@ -107,12 +107,11 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
-
 div {
   margin: 10% auto 0px;
 }
 
+/*
 table {
   border-collapse: collapse;
   border-spacing: 0;
