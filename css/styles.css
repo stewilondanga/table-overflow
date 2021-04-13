@@ -141,12 +141,12 @@ tr:nth-child(even) {
   background: rgba(17, 17, 17, 0.6);
 }
 
-/*
 ::-webkit-scrollbar-thumb {
   background: #ddd;
   border-radius: 0px;
 }
 
+/*
 ::-webkit-scrollbar-thumb:hover {
   background: #eee;
 }
