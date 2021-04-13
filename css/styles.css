@@ -126,11 +126,11 @@ th, td {
   text-align: left;
 }
 
-/*
 tr:nth-child(even) {
   background: rgba(17, 17, 17, 0.11);
 }
 
+/*
 ::-webkit-scrollbar {
   width: 20px;
 }
