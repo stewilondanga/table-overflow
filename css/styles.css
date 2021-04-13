@@ -146,11 +146,11 @@ tr:nth-child(even) {
   border-radius: 0px;
 }
 
-/*
 ::-webkit-scrollbar-thumb:hover {
   background: #eee;
 }
 
+/*
 p {
   color: #fff;
   text-align: center;
